@@ -1,0 +1,41 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+2D Twitch Paddle
+
+TODO
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+I would like to create a 2D game of arcade pong. 
+TODO
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+This program will allow two people to play two-dimensional table tennis against each other. Each player will control a paddle which will be used to hit a ball back and forth. If one player fails to hit the ball and it goes past their paddle, the other player will receive a point. The first to score five points wins the game. A scoreboard with both players’ scores and a time limit of the game will also be displayed. I will be writing this program in Python.
+TODO
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+I plan on working on this project alone. 
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+N/A
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+I want to at least be able to make a functional two player pong game. If I can write a program which allows two players to control their respective paddles and they can deflect a ball back forth I will be pleased. I would like to create a scoreboard and add other features, but those objectives aren’t my main goal. 
+TODO
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+I think I can create a scoreboard and timer which indicates how much time is left in the game. A menu after the game loads and before one plays the game would also be a nice feature if I can accomplish it. 
+TODO
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+I hope to create a two-dimensional arcade pong game which two players control individual paddles and try to score points by getting a ball past the other player. I also want to provide a scoreboard and timer indicating the score and how much time is left in the game.
+TODO
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+First, I need to create the background and select what colors or themes I’d like to use in the game. Then I want to learn how to create two paddles which receive input from different users. After I do that, I want to create the border and “goals”. The ball will bounce off the borders and the goals will be the space behind each paddle. I plan to create the ball after making the borders and goal. Finally, I will go about creating a scoreboard and timer which correspond with the events of the game. The scoreboard will keep track of goals scored and the timer will show how much time is left in the game.
+TODO
+
