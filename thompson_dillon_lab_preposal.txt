@@ -1,0 +1,15 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+At first, I considered making a mod for a video game on the service steam from the Total War franchise. However, I thought that testing this mod may be too demanding of my laptop and decided to look at other options. I’m also considering creating a fruit ninja style game. I think I will most likely create an arcade style game like pong or snake though. 
+
+TODO
+
+## If you plan to collaborate with one or two classmates, what are their names?
+I plan to work on this project alone.
+TODO
+
+## Do you have any questions of your own?
+Not now but I’m sure I will once I start working on my project.
+TODO
+
